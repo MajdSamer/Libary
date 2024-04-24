@@ -1,0 +1,99 @@
+*{
+    background-color: rgb(51, 50, 50);
+    margin: auto;
+    
+}
+#logo{
+    position: relative;
+    width: 120px; height: auto;
+    right: 920px;
+    top: 38px;  
+    
+}
+#book{
+    position: relative;
+    width: 250px; height: auto;
+   left: 1030px;
+   top: 115px;
+}
+a{
+    padding: 20px;
+    position: relative;
+    left: 900px;
+    bottom:35px;
+    color: white;
+    text-decoration: none;   
+}
+a:hover{
+    color: rgb(131, 127, 127);
+}
+.square-box {
+    width: 250px;
+    height: 345px;
+    background-color: black;
+    position: relative;
+    overflow: hidden;
+    left: 480px;
+    bottom: 154px;
+    opacity: 0.2;
+  }
+.p3{
+    position: absolute;
+    bottom: 465px;
+    left: 25px;
+    color: white;
+}
+.p1{
+    position: absolute;
+    bottom: 410px;
+    left: 20px;
+    font-size: xxx-large;
+}
+.p4{
+    position: absolute;
+    bottom: 390px;
+    left: 25px;
+    color: white;
+}
+.partone{
+    position: absolute;
+    bottom: 120px;
+    left: 20px;
+    font-weight: bold;
+    text-align: left;
+    font-size: larger; 
+     
+}    
+hr {
+    position: relative;
+    top: -9px;
+    border: none;
+    border-top: 2px solid black;
+  }
+#social_media{
+    position: absolute;
+   right: 1770px;
+    bottom: 500px;
+    display: flex;   
+}
+#social_media img:hover{
+    width: 52px;
+    border-bottom: 2px  black;
+}
+.parttwo{
+    position: absolute;
+    top: 460px;
+    left: 850px;
+    
+}
+.progg{
+position: relative;
+bottom: 140px;
+
+ }
+#book{
+    position: relative;
+    width: 250px; height: auto;
+   left: 1050px;
+   top: 80px;
+ }      
